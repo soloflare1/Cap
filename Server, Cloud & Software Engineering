@@ -9,7 +9,6 @@ Reactive auto-scaling systems often respond after server demand has increased, w
 ### Proposed Approach
 
 Develop a workload forecasting model that predicts upcoming resource demand and evaluates whether proactive scaling can improve on reactive scaling policies.
-
 The prototype could forecast workload and simulate scaling decisions without requiring deployment on a production cloud service.
 
 ### Research Questions
