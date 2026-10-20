@@ -31,7 +31,6 @@ Do existing explainable intrusion detection methods provide sufficiently accurat
 ### Starter Research Papers
 
 - [Toward Generating a New Intrusion Detection Dataset and Intrusion Traffic Characterization (2018)](https://doi.org/10.5220/0006639801080116)
-- [BCCC-CIC-IDS2017 — Research dataset information](https://www.yorku.ca/research/bccc/ucs-ids/)
 - [Explainable AI for Intrusion Detection — Google Scholar](https://scholar.google.com/scholar?q=explainable+AI+intrusion+detection+SHAP+cross+dataset+stability)
 
 ### Evaluation Plan
